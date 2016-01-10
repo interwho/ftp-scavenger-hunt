@@ -1,0 +1,19 @@
+This file contains the answer key to this activity. Each answer (with the exception of the secret word) should be set as the next account's password.
+
+Answer Key:
+1. stick
+2. 789
+3. linux
+4. subnet
+5. transistor
+6. ipconfig
+7. rom
+8. digital
+9. packet
+10. star
+11. 4294967296
+12. 64
+13. dns
+14. application
+
+Secret Word: lolnetworks

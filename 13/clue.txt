@@ -1,0 +1,13 @@
+You are playing FTP Scavenger Hunt!
+
+You are currently logged in to account 13.
+
+The next account username is 14.
+
+Your clue is as follows:
+
+What system allows a domain name (like example.com) to resolve to an IP address?
+
+___
+
+(all lowercase)

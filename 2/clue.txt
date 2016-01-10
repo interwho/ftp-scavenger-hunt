@@ -1,0 +1,11 @@
+You are playing FTP Scavenger Hunt!
+
+You are currently logged in to account 2.
+
+The next account username is 3.
+
+Your clue is as follows:
+
+Why is 6 afraid of 7?
+
+Because ___!

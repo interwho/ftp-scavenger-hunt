@@ -1,0 +1,13 @@
+You are playing FTP Scavenger Hunt!
+
+You are currently logged in to account 10.
+
+The next account username is 11.
+
+Your clue is as follows:
+
+What network topology involves having each computer connect to every other computer in the network?
+
+The ____ topology
+
+(all lowercase)

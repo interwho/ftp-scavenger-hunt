@@ -1,0 +1,13 @@
+You are playing FTP Scavenger Hunt!
+
+You are currently logged in to account 4.
+
+The next account username is 5.
+
+Your clue is as follows:
+
+What is 192.168.2.0/24 called?
+
+A ______
+
+(all lowercase)

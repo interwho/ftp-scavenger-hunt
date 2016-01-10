@@ -1,0 +1,13 @@
+You are playing FTP Scavenger Hunt!
+
+You are currently logged in to account 12.
+
+The next account username is 13.
+
+Your clue is as follows:
+
+How many subnets can be created on a prefix of size /30?
+
+__
+
+(all lowercase)

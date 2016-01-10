@@ -1,0 +1,23 @@
+Welcome to the FTP Scavenger Hunt!
+
+You are currently logged in to account 1.
+
+Your objective is to find the secret word on the last account. Find the secret word and submit to moodle for marks on this assignment!
+
+Each account contains a clue - the answer to the clue is the password to the next account.
+
+Clues will start out easy, and get harder as you go along. Some clues may require internet research.
+
+But BEWARE - 3 incorrect answers in a row, and you'll be banned from the server for up to a minute!
+
+Good Luck!
+
+The next account username is 2.
+
+Your clue is as follows:
+
+What's brown and sticky?
+
+A _____
+
+(one word, all lower case)

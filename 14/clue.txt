@@ -1,0 +1,13 @@
+You are playing FTP Scavenger Hunt!
+
+You are currently logged in to account 14.
+
+The next account username is 15.
+
+Your clue is as follows:
+
+What is the top layer of the OSI model?
+
+___________ layer
+
+(all lowercase)
